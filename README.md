@@ -1,2 +1,2 @@
-# ReactDotNetDeploy
+# BlazorAppDeploy
 Test Deploy App
